@@ -1,2 +1,3 @@
 # Wireless-Communication-Simulation
-MATLAB simulation for multiple techniques used in wireless communication.
+MATLAB simulated Hamming code.
+GNURadio simulated frame synchronization.
